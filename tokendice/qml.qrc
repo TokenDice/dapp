@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>PageBetNum.qml</file>
+        <file>PageBetCoin.qml</file>
+        <file>PageResult.qml</file>
+    </qresource>
+</RCC>
